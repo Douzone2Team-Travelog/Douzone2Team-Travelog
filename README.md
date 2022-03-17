@@ -19,7 +19,7 @@ We made **Web Front-end Toy Project.👀**<br/><br/>
 ### 🛠 Tools
 
 <img src="https://img.shields.io/badge/Eclipse-3300CC?style=flat-square&logo=Eclipse IDE&logoColor=white"/> | 
-<img src="https://img.shields.io/badge/IntelliJ-#66CC99?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/> 
+<img src="https://img.shields.io/badge/IntelliJ-66CC99?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/> 
 
 ### 🖥 summary
 
