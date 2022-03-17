@@ -14,7 +14,7 @@ We made **Web Front-end Toy Project.👀**<br/><br/>
 
 ### 💪 What We Use
 
-<img src="https://img.shields.io/badge/javascript-javascript-blue&logo=javascript"/> <img src="https://img.shields.io/badge/Spring-66CC99?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-3399FF?style=flat-square&logo=MariaDB&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-blue&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/html-66CC99?style=flat-square&logo=html&logoColor=white"/> <img src="https://img.shields.io/badge/css-3399FF?style=flat-square&logo=css&logoColor=white"/>
 
 ### 🛠 Tools
 
