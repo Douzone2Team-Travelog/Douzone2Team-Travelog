@@ -14,11 +14,11 @@ We made **Web Front-end Toy Project.👀**<br/><br/>
 
 ### 💪 What We Use
 
-<img src="https://img.shields.io/badge/html5-66CC99?style=flat-square&logo=html5&logoColor=white"/> | <img src="https://img.shields.io/badge/css-3399FF?style=flat-square&logo=css&logoColor=white"/> | <img src="https://img.shields.io/badge/JavaScript-blue?style=flat-square&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/html5-66CC99?style=flat-square&logo=html5&logoColor=white"/> :: <img src="https://img.shields.io/badge/css-3399FF?style=flat-square&logo=css&logoColor=white"/> :: <img src="https://img.shields.io/badge/JavaScript-blue?style=flat-square&logo=JavaScript&logoColor=white"/>
 
 ### 🛠 Tools
 
-<img src="https://img.shields.io/badge/Eclipse-3300CC?style=flat-square&logo=Eclipse IDE&logoColor=white"/> | 
+<img src="https://img.shields.io/badge/Eclipse-3300CC?style=flat-square&logo=Eclipse IDE&logoColor=white"/> :: 
 <img src="https://img.shields.io/badge/IntelliJ-FF9E0F?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/> 
 
 ### 🖥 summary
